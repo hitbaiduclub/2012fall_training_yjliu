@@ -36,8 +36,8 @@ Github是一个项目管理网站。
 
 1. 下载一个叫git的软件，它的下载链接是![Git - Downloads](http://git-scm.com/downloads)。这个软件可以看成是Github的客户端（虽然这种理解是错误的），下载后安装。
 
-+ 对于Linux用户，安装git后等于给系统添加了一个命令。可以直接在shell中使用git命令使用。
-+ 对于Windows用户，安装git后有一个git bash。git shell的操作和Linux下的shell一样，建议使用这个操作。
+++ 对于Linux用户，安装git后等于给系统添加了一个命令。可以直接在shell中使用git命令使用。
+++ 对于Windows用户，安装git后有一个git bash。git shell的操作和Linux下的shell一样，建议使用这个操作。
 
 2. 安装好git后，需要配置ssh-key。具体的配置方法参考![Git与Github的使用(ubuntu)](http://www.pureweber.com/article/git-and-github/)或者![Set Up Git](https://help.github.com/articles/set-up-git)。
 
